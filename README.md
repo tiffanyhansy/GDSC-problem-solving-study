@@ -5,7 +5,7 @@ https://leetcode.com/problemset/
 
 
 ### Commit Message
-- 🚨 Fix: [수정 대상] - [수정 내용]
+- 🚨 Fix: [수정 대상] - [수정 내용] 
 - ✨ Feat: 새로운 기능 추가, 사용자 입장에서 변화가 있을 경우
 - 🎉 Init: 프로젝트 초기 생성
 - 📝 Chore: 그 외 자잘한 수정에 대한 커밋, 주석, 의존성 설치, 리드미 수정
